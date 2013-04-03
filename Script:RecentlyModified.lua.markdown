@@ -1,10 +1,10 @@
-Title: _RecentlyModified.lua
+Title: Script:RecentlyModified.lua
 Timestamp: 2013-03-27 22:50:49 +0000
 Created: 2013-03-27 05:41:29 +0000
 Last Accessed: 2013-03-27 23:51:11 +0000
-Times Accessed:
-Tags: Lua
-Metadata:
+Times Accessed: 10
+Tags: Lua, Script, CoreMeta
+Metadata: gpslongitude=-121.942206,gpslatitude=37.392341
 
 --
 -- Displays the last 20 pages that have been modified.
